@@ -14,12 +14,12 @@ const files = [
   {
     title: 'FAMILY CITY • NEON',
     category: 'ozadja',
-    file: 'assets/ozadja/family-city-neon.png'
+    file: 'assets/ozadja/Family City 2.png'
   },
   {
     title: 'FAMILY CITY • STORM',
     category: 'ozadja',
-    file: 'assets/ozadja/family-city-storm.png'
+    file: 'assets/ozadja/Family City.png'
   }
 ];
 
