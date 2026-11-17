@@ -7,11 +7,6 @@ const files = [
     file: 'assets/logotipi/sfr-logo.png'
   },
   {
-    title: 'FAMILY CITY • NIGHT',
-    category: 'ozadja',
-    file: 'assets/ozadja/family-city-night.png'
-  },
-  {
     title: 'FAMILY CITY • NEON',
     category: 'ozadja',
     file: 'assets/ozadja/Family City 2.png'
