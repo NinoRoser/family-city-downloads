@@ -1,6 +1,4 @@
-
-
-const files = [
+  const files = [
   {
     title: 'FAMILY CITY • SFR LOGO',
     category: 'logotipi',
@@ -17,8 +15,6 @@ const files = [
     file: 'assets/ozadja/Family-City.png'
   }
 ];
-
-
 // Prenos slike
 async function prenesiSliko(pot, ime) {
   try {
