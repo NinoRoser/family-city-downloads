@@ -1,4 +1,5 @@
 
+
 const files = [
   {
     title: 'FAMILY CITY • SFR LOGO',
@@ -6,11 +7,22 @@ const files = [
     file: 'assets/logotipi/sfr-logo.png'
   },
   {
-    title: 'FAMILY CITY • OZADJE 1',
+    title: 'FAMILY CITY • NIGHT',
     category: 'ozadja',
-    file: 'assets/ozadja/ozadje-1-test.png'
+    file: 'assets/ozadja/family-city-night.png'
+  },
+  {
+    title: 'FAMILY CITY • NEON',
+    category: 'ozadja',
+    file: 'assets/ozadja/family-city-neon.png'
+  },
+  {
+    title: 'FAMILY CITY • STORM',
+    category: 'ozadja',
+    file: 'assets/ozadja/family-city-storm.png'
   }
 ];
+
 
 // Prenos slike
 async function prenesiSliko(pot, ime) {
