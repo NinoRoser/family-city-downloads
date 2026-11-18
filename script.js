@@ -1,20 +1,92 @@
-  const files = [
+
+const files = [
+  // LOGOTIPI
   {
-    title: 'FAMILY CITY • SFR LOGO',
+    title: 'FAMILY CITY • SFR LOGO 1',
     category: 'logotipi',
-    file: 'assets/logotipi/sfr-logo.png'
+    file: 'assets/logotipi/sfr-logo-1.png'
   },
   {
-    title: 'FAMILY CITY • NEON',
-    category: 'ozadja',
-    file: 'assets/ozadja/Family-City-2.png'
+    title: 'FAMILY CITY • SFR LOGO 2',
+    category: 'logotipi',
+    file: 'assets/logotipi/sfr-logo-2.png'
   },
   {
-    title: 'FAMILY CITY • STORM',
+    title: 'FAMILY CITY • SFR LOGO 3',
+    category: 'logotipi',
+    file: 'assets/logotipi/sfr-logo-3.png'
+  },
+  {
+    title: 'FAMILY CITY • SFR LOGO 4',
+    category: 'logotipi',
+    file: 'assets/logotipi/sfr-logo-4.png'
+  },
+
+  // OZADJA ZA RAČUNALNIK
+  {
+    title: 'FAMILY CITY • PC OZADJE 1',
     category: 'ozadja',
-    file: 'assets/ozadja/Family-City.png'
+    file: 'assets/ozadja/sfr-wall-1.png'
+  },
+  {
+    title: 'FAMILY CITY • PC OZADJE 2',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-2.png'
+  },
+  {
+    title: 'FAMILY CITY • PC OZADJE 3',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-3.png'
+  },
+  {
+    title: 'FAMILY CITY • PC OZADJE 4',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-4.png'
+  },
+  {
+    title: 'FAMILY CITY • PC OZADJE 5',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-5.png'
+  },
+  {
+    title: 'FAMILY CITY • PC OZADJE 6',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-6.png'
+  },
+  {
+    title: 'FAMILY CITY • PC OZADJE 7',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-7.png'
+  },
+
+  // OZADJA ZA TELEFON
+  {
+    title: 'FAMILY CITY • TELEFON 1',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-phone-1.png'
+  },
+  {
+    title: 'FAMILY CITY • TELEFON 2',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-phone-2.png'
+  },
+  {
+    title: 'FAMILY CITY • TELEFON 3',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-phone-3.png'
+  },
+  {
+    title: 'FAMILY CITY • TELEFON 4',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-phone-4.png'
+  },
+  {
+    title: 'FAMILY CITY • TELEFON 5',
+    category: 'ozadja',
+    file: 'assets/ozadja/sfr-wall-phone-5.png'
   }
 ];
+
 // Prenos slike
 async function prenesiSliko(pot, ime) {
   try {
