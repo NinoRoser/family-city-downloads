@@ -3,22 +3,22 @@ const files = [
   // LOGOTIPI
   
 {
-  title: 'FAMILY CITY • SFR LOGO 1',
+  title: 'FAMILY CITY • SFR LOGOTIP 1',
   category: 'logotipi',
   file: 'assets/logo/sfr-logo-1.png'
 },
 {
-  title: 'FAMILY CITY • SFR LOGO 2',
+  title: 'FAMILY CITY • SFR LOGOTIP 2',
   category: 'logotipi',
   file: 'assets/logo/sfr-logo-2.png'
 },
 {
-  title: 'FAMILY CITY • SFR LOGO 3',
+  title: 'FAMILY CITY • SFR LOGOTIP 3',
   category: 'logotipi',
   file: 'assets/logo/sfr-logo-3.png'
 },
 {
-  title: 'FAMILY CITY • SFR LOGO 4',
+  title: 'FAMILY CITY • SFR LOGOTIP 4',
   category: 'logotipi',
   file: 'assets/logo/sfr-logo-4.png'
 },
@@ -63,27 +63,27 @@ const files = [
 
   // OZADJA ZA TELEFON
   {
-    title: 'FAMILY CITY • TELEFON 1',
+    title: 'FAMILY CITY • OZADJE ZA TELEFON 1',
     category: 'ozadja',
     file: 'assets/ozadja/sfr-wall-phone-1.png'
   },
   {
-    title: 'FAMILY CITY • TELEFON 2',
+    title: 'FAMILY CITY • OZADJE ZA TELEFON 2',
     category: 'ozadja',
     file: 'assets/ozadja/sfr-wall-phone-2.png'
   },
   {
-    title: 'FAMILY CITY • TELEFON 3',
+    title: 'FAMILY CITY • OZADJE ZA TELEFON 3',
     category: 'ozadja',
     file: 'assets/ozadja/sfr-wall-phone-3.png'
   },
   {
-    title: 'FAMILY CITY • TELEFON 4',
+    title: 'FAMILY CITY • OZADJE ZA TELEFON 4',
     category: 'ozadja',
     file: 'assets/ozadja/sfr-wall-phone-4.png'
   },
   {
-    title: 'FAMILY CITY • TELEFON 5',
+    title: 'FAMILY CITY • OZADJE ZA TELEFON 5',
     category: 'ozadja',
     file: 'assets/ozadja/sfr-wall-phone-5.png'
   }
