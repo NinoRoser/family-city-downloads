@@ -4,22 +4,22 @@ const files = [
   {
     title: 'FAMILY CITY • SFR LOGO 1',
     category: 'logotipi',
-    file: 'assets/logotipi/sfr-logo-1.png'
+    file: 'assets/logo/sfr-logo-1.png'
   },
   {
     title: 'FAMILY CITY • SFR LOGO 2',
     category: 'logotipi',
-    file: 'assets/logotipi/sfr-logo-2.png'
+    file: 'assets/logo/sfr-logo-2.png'
   },
   {
     title: 'FAMILY CITY • SFR LOGO 3',
     category: 'logotipi',
-    file: 'assets/logotipi/sfr-logo-3.png'
+    file: 'assets/logo/sfr-logo-3.png'
   },
   {
     title: 'FAMILY CITY • SFR LOGO 4',
     category: 'logotipi',
-    file: 'assets/logotipi/sfr-logo-4.png'
+    file: 'assets/logo/sfr-logo-4.png'
   },
 
   // OZADJA ZA RAČUNALNIK
